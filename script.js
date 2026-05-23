@@ -674,7 +674,7 @@ const slideData = {
 
 
 
-        rec5Desc: "إطلاق حملات إعادة استهداف مخصصة جداً للعملاء المحتملين الذين تفاعلوا مع محتوى الوكالة التعليمي، مما يعظم عائد المبيعات لـ 3 أضعاف."
+        rec5Desc: "إطلاق حملات إعادة استهداف مخصصة جداً للعملاء المحتملين الذين تفاعلوا مع محتوى الوكالة التعليمي، مما يعظم عائد المبيعات لـ 3 أضعاف.",
 
         outroTitle: "شكراً لكم | Thank You",
 
@@ -1338,7 +1338,7 @@ const slideData = {
 
 
 
-        rec5Desc: "Set up multi-stage custom audience retargeting funnels to convert warm visitors who read our educational content, tripling retainer sales."
+        rec5Desc: "Set up multi-stage custom audience retargeting funnels to convert warm visitors who read our educational content, tripling retainer sales.",
 
         outroTitle: "Thank You | شكراً لكم",
 
